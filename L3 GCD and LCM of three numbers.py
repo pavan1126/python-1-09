@@ -1,4 +1,4 @@
-#GCD and LCM of two numbers
+#GCD and LCM of three numbers
 x=int(input("Enter a value:"))
 y=int(input("Enter b value:"))
 z=int(input("Enter c value:"))
